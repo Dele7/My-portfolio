@@ -21,43 +21,9 @@ $(document).ready(function(){
 
 
 
-    $(".switch").click(function(){
-        window.open('https://hibee01.github.io/switch-design-project/', '_blank')
+    $(".vip").click(function(){
+        window.open('https://dele7.github.io/Fintech-app/', '_blank')
     });
 
-    $(".gjustice").click(function(){
-        window.open('https://hibee01.github.io/Gjustice/', '_blank')
-    });
-
-    $(".switch-landing").click(function(){
-        window.open('http://www.switchapp.us/', '_blank')
-    });
-
-    $(".art").click(function(){
-        window.open('https://www.behance.net/gallery/113074999/Art-Gallery-Landing-Page', '_blank')
-    });
-
-    $(".music").click(function(){
-        window.open('https://www.behance.net/gallery/112700841/Music-App-UI/', '_blank')
-    });
-
-    $(".e-mobile").click(function(){
-        window.open('https://hibee01.github.io/E-commerce-mobile-app/', '_blank')
-    });
-
-    $(".farming").click(function(){
-        window.open('https://www.behance.net/gallery/124733937/Online-Farming-System-Admin-UI', '_blank')
-    });
-
-    $(".rwanda").click(function(){
-        window.open(' https://hibee01.github.io/Rwandaful/', '_blank')
-    });
-
-    $(".foodie").click(function(){
-        window.open('https://hibee01.github.io/my-foodie-app/', '_blank')
-    });
-
-    $(".Dax").click(function(){
-        window.open('https://hibee01.github.io/Daxlinks/', '_blank')
-    });
+  
 });
