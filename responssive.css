@@ -4,8 +4,8 @@
     }
 
     #header {
-        height: 75vh;
-        padding-top: 1%;
+        height: 85vh;
+        padding: 1% 0;
     }
 
     nav {
@@ -22,7 +22,7 @@
     }
 
     #header {
-        padding-top: 2%;
+        padding: 2% 0;
     }
 
     .hero {
@@ -105,7 +105,7 @@
     }
 
     #header {
-        padding-top: 2%;
+        padding: 2% 0;
     }
 
     .hero h1 {
@@ -229,13 +229,13 @@
     }
 
 }
-@media (max-width: 330px){
+/* @media (max-width: 330px){
 
     #header {
         height:80vh;
         padding-top: 4%;
     }
 
-}
+} */
 
 
