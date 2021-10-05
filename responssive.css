@@ -177,11 +177,6 @@
         width: 85%;
     }
 
-    #header {
-        height: 60vh;
-        padding-top: 4%;
-    }
-
     .logo-img {
         width: 60%;
     }
@@ -231,6 +226,14 @@
     .small-boxes {
         display: block;
         margin-bottom: 2rem;
+    }
+
+}
+@media (max-width: 330px){
+
+    #header {
+        height:80vh;
+        padding-top: 4%;
     }
 
 }
