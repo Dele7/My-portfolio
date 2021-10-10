@@ -24,6 +24,9 @@ $(document).ready(function(){
     $(".vip").click(function(){
         window.open('https://dele7.github.io/Fintech-app/', '_blank')
     });
+     $(".insure").click(function(){
+        window.open('https://dele7.github.io/insurance-app/', '_blank')
+    });
 
   
 });
