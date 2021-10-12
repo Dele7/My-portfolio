@@ -27,6 +27,9 @@ $(document).ready(function(){
      $(".insure").click(function(){
         window.open('https://dele7.github.io/insurance-app/', '_blank')
     });
+     $(".lms").click(function(){
+        window.open('https://dele7.github.io/LMS/', '_blank')
+    });
 
   
 });
