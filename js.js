@@ -30,6 +30,9 @@ $(document).ready(function(){
      $(".lms").click(function(){
         window.open('https://dele7.github.io/LMS/', '_blank')
     });
+      $(".lq").click(function(){
+        window.open('https://dele7.github.io/Lodge-quick/', '_blank')
+    });
 
   
 });
