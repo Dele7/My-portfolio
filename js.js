@@ -33,6 +33,9 @@ $(document).ready(function(){
       $(".lq").click(function(){
         window.open('https://dele7.github.io/Lodge-quick/', '_blank')
     });
+       $(".rest").click(function(){
+        window.open('https://www.figma.com/file/3qalxG72uDXPjda1K81qG9/Salad-Bar?node-id=0%3A1/', '_blank')
+    });
 
   
 });
