@@ -39,7 +39,6 @@ $(document).ready(function(){
     $(".Crypto").click(function(){
         window.open('https://dele7.github.io/crypto/', '_blank')
     });
-    
 
   
 });
