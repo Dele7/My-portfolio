@@ -36,6 +36,10 @@ $(document).ready(function(){
        $(".rest").click(function(){
         window.open('https://www.figma.com/file/3qalxG72uDXPjda1K81qG9/Salad-Bar?node-id=0%3A1/', '_blank')
     });
+    $(".Crypto").click(function(){
+        window.open('https://dele7.github.io/crypto/', '_blank')
+    });
+    
 
   
 });
