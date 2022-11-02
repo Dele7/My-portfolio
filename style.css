@@ -21,10 +21,11 @@ h1, h3 {
 
 #header {
     background-color: #181821;
-    height: 75vh;
+    /* height: 75vh; */
     text-align: center;
     color: #fff;
-    padding-top: 2%;
+    padding: 2% 0 7% 0;
+    
 }
 
 .hide {
@@ -128,6 +129,7 @@ nav .mainMenu .closeMenu , .icons i {
     font-weight: 400;
     width: 80%;
     margin: auto;
+    text-align: justify;
 }
 
 .hero p {
@@ -152,9 +154,13 @@ nav .mainMenu .closeMenu , .icons i {
 }
 
 .box p {
-    margin-top: 1rem;
+    margin: 1rem 0;
     width: 90%;
     line-height: 1.5;
+}
+.box a {
+    color: #181821;
+    font-weight: 600;
 }
 
 .box h3 {

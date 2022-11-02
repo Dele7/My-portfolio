@@ -3,11 +3,6 @@
         width: 85%;
     }
 
-    #header {
-        height: 85vh;
-        padding: 1% 0;
-    }
-
     nav {
         display: flex;
         align-items: center;
@@ -21,9 +16,9 @@
         width: 90%;
     }
 
-    #header {
+    /* #header {
         padding: 2% 0;
-    }
+    } */
 
     .hero {
         margin: 8rem 0 0 0;
@@ -104,19 +99,14 @@
         display: block;
     }
 
-    #header {
-        padding: 2% 0;
-    }
-
     .hero h1 {
         font-size: 1.4rem;
         margin-bottom: 1.5%;
     }
 
     .hero h3 {
-        width: 80%;  
+        width: 100%;
     }
-
     #project {
         margin-top: 5%;
     }
@@ -156,6 +146,13 @@
     #personal p {
         font-size: 0.9rem;
     }
+    .boxes {
+        display: block;
+    }
+
+    .box {
+        margin-bottom: 3rem;
+    }
 
     .sm-logo {
         width: 24%;
@@ -174,9 +171,11 @@
 @media (max-width: 575px){
 
     .container {
-        width: 85%;
+        width: 90%;
     }
-
+    nav {
+        margin-bottom: 0;
+    }
     .logo-img {
         width: 60%;
     }
@@ -199,16 +198,7 @@
     }
 
     .hero h3 {
-        width: 95%; 
         font-size: 0.9rem; 
-    }
-
-    .boxes {
-        display: block;
-    }
-
-    .box {
-        margin-bottom: 3rem;
     }
 
     .sm-logo {

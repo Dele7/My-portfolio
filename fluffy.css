@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Inter', sans-serif;
+}
+hr {
+    opacity: 0.2;
+}
+button {
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+    color: #2e2e2e;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+.header {
+    background-image: url(img/getty.jpg);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav {
+    padding: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu {
+    display: none;
+}
+.link {
+    margin-left: 3rem;
+    font-weight: 500;
+}
+.logo-name {
+    font-weight: 800;
+    font-size: 1.6rem;
+}
+header {
+    background-image: url(img/hero-bg.webp);
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.hero-text {
+    color: #fff;
+    text-align: center;
+}
+.overview-cont {
+    display: flex;
+    justify-content: space-between;
+    padding: 7% 0;
+}
+.overview-1 {
+    flex-basis: 55%;
+}
+.overview-1 p {
+    margin-bottom: 1rem;
+}
+.overview-1 h2 {
+    width: 70%;
+    font-size: 2.4rem;
+}
+.overview-2 {
+    flex-basis: 45%;
+}
+.overview-2 .overview-1-1{
+    margin-bottom: 2rem;
+}
+.overview-2 .overview-1-1 p{
+    margin-bottom: 1rem;
+}
+.overview-2 .overview-1-1 p:last-of-type{
+    font-weight: 600;
+}
+.third-section {
+    color: #fff;
+    padding: 2% 0;
+    background-color: #040014;
+}
+.third-section h3{
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.third-section p{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+.desktop-mockup-img-cont {
+    width: 50%;
+}
+.desktop-mockup {
+    width: 100%;
+}
+.inspiration {
+    padding: 5% 0;
+}
+.inspiration h3 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+.inspiration-mockup {
+    width: 100%;
+}
+.heroes {
+    padding-left: 5%;
+}
+.heroes-cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.heroes-cont h4 {
+    font-size: 2.2rem;
+    width: 90%;
+}
+.hero-text-cont {
+    flex-basis: 40%;
+}
+.heroes-img-cont {
+    flex-basis: 50%;
+}
+.heroes-mockup {
+    width: 100%;
+}
+.before-after {
+    padding: 5% 0;
+    text-align: center;
+}
+.before-after-mockup {
+    width: 100%;
+}
+.before-after h4 {
+    margin-top: 0.8rem;
+    color: rgb(173, 173, 173);
+    font-weight: 500;
+}
+.homepage {
+    padding: 3% 0;
+}
+.homepage h2, hr, .mobile h2 {
+    margin-bottom: 1rem;
+}
+.homepage-img-cont, .mobile-img-cont {
+    margin-top: 4rem;
+}
+.homepage-mockup, .mobile-mockup {
+    width: 100%;
+}
+.mobile {
+    padding: 0 0 5% 0;
+}
+.next {
+    background-color: #040014;
+    color: #fff;
+    padding: 5% 0;
+}
+.next h2 {
+    font-size: 2.8rem;
+    margin: 2rem 0;
+}
+.next button.btn {
+    background-color: #040014;
+    color: #fff;
+    border: 2px solid cornsilk;
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    border-radius: 6px;
+}
+footer {
+    padding: 5% 0;
+}
+.footer-cont {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-1 .about-me {
+    width: 90%;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+}
+.svg {
+    margin-bottom: 1rem;
+}
+.footer-2 .link {
+    margin-left: 2rem;
+}
+.footer-3 .btn-blue {
+    background-color: #1400FF;
+    color: #fff;
+    border: none;
+    padding: 1.5rem;
+    font-size: 1rem;
+    border-radius: 6px;
+    width: 100%;
+}
+.footer-1 {
+    flex-basis: 33%;
+}
+.footer-2 {
+    flex-basis: 33%;
+}
+.footer-1 .name {
+    font-weight: 600;
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+.footer-3 {
+    flex-basis: 33%;
+}
+
+
+
+
+
+
+
+
+
+
+

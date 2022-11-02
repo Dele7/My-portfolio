@@ -21,6 +21,9 @@ $(document).ready(function(){
 
 
 
+    $(".avat").click(function(){
+        window.open('https://dele7.github.io/avat-crypto/', '_blank')
+    });
     $(".vip").click(function(){
         window.open('https://dele7.github.io/Fintech-app/', '_blank')
     });

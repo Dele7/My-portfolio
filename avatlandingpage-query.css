@@ -1,0 +1,124 @@
+@media screen and (max-width: 2500px) and (min-width: 2000px), (min-width: 2500px){
+    .container {
+        width: 60%;
+    }
+}
+@media(max-width: 1000px){
+    footer {
+        padding: 7% 0;
+    }
+    .footer-cont {
+        display: block;
+    }
+    .footer-1 .about-me {
+        width: 100%;
+        margin-bottom: 1.5rem;
+    }
+    .svg {
+        margin-bottom: 1.5rem;
+    }
+    .footer-3 .btn-blue {
+        padding: 1.2rem;
+        font-size: 1rem;
+        border-radius: 4px;
+        width: 70%;
+        margin-top: 1.5rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        width: 90%;
+    }
+    .surname {
+        display: none;
+    }
+    .logo-name {
+        font-weight: 800;
+        font-size: 1.1rem;
+    }
+    header {
+        height: 50vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+    }
+    .menu {
+        display: block;
+    }
+    .links {
+        display: none;
+    }
+    .overview-cont {
+        display: block;
+    }
+    .overview-1 {
+        margin-bottom: 1.5rem;
+    }
+    .overview-1 h2 {
+        width: 100%;
+        font-size: 1.3rem;
+    }
+    .overview-text {
+        font-weight: 400;
+        line-height: 1.5;
+    }
+    .third-section h3, .homepage h2, .mobile h2{
+        font-size: 1.2rem;
+    }
+    .third-section p{
+        width: 90%;
+        line-height: 1.5;
+    } 
+    .desktop-mockup-img-cont {
+        margin-top: 2rem;
+    }
+    .inspiration h3 {
+        font-size: 1.2rem;
+        margin: 2rem 0;
+    }
+    .heroes {
+        padding-left: 0;
+    }
+    .heroes-cont {
+        display: block;
+    }
+    .heroes-cont h4 {
+        font-size: 1.2rem;
+        text-align: center;
+        margin: 2rem 0;
+    }
+    .homepage-img-cont, .mobile-img-cont {
+        margin-top: 2rem;
+    }
+    .next {
+        text-align: center;
+        padding: 5% 0;
+    }
+    .next h2 {
+        font-size: 1.4rem;
+        margin: 1.5rem 0;
+    }
+    .next button.btn {
+        padding: 5% 15%;
+        width: 80%;
+    }
+    .footer-1 .name {
+        font-size: 1.1rem;
+    }
+    .footer-3 .btn-blue {
+        padding: 1.5rem;
+        width: 100%;
+    }
+    .footer-1 .about-me {
+        width: 100%;
+    }
+   
+}
+@media(max-width: 400px){
+    .inspiration h3 {
+        font-size: 1rem;
+        margin: 1rem 0;
+    }
+}
