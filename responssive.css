@@ -153,6 +153,10 @@
     .box {
         margin-bottom: 3rem;
     }
+    
+    .hide {
+        display: none;
+    }
 
     .sm-logo {
         width: 24%;

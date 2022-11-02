@@ -29,7 +29,7 @@ h1, h3 {
 }
 
 .hide {
-    display: none;
+    visibility: hidden;
 }
 
 .container {

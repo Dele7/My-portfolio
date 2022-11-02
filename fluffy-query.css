@@ -98,11 +98,12 @@
     }
     .next h2 {
         font-size: 1.4rem;
-        margin: 1rem 0 0 0;
+        margin: 1.5rem 0;
     }
     .next button.btn {
         padding: 5% 15%;
         width: 80%;
+        margin-bottom: 1rem;
     }
     .footer-1 .name {
         font-size: 1.1rem;
