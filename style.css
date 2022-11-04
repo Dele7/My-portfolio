@@ -257,3 +257,14 @@ nav .mainMenu .closeMenu , .icons i {
     color: #fff;
     padding: 1rem 0;
 }
+
+.b2h {
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 1.2rem;
+    cursor: pointer;
+    font-weight: 600;
+}
+.b2h a:hover {
+    color: blue;
+}
